@@ -1,7 +1,0 @@
-store/auth/RegisterIn$RegisterInBuilder.class
-store/auth/TokenOut$TokenOutBuilder.class
-store/auth/AuthController.class
-store/auth/TokenOut.class
-store/auth/LoginIn.class
-store/auth/LoginIn$LoginInBuilder.class
-store/auth/RegisterIn.class
